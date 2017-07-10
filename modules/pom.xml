@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+
+    <groupId>com.gof</groupId>
+    <artifactId>gof_tasks</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>iteration1</module>
+        <module>iteration2</module>
+        <module>iteration3</module>
+        <module>iteration4</module>
+        <module>iteration5</module>
+        <module>iteration6</module>
+        <module>iteration7</module>
+        <module>iteration8</module>
+    </modules>
+
+</project>
